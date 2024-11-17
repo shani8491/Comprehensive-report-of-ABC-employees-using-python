@@ -8,8 +8,7 @@ This project analyzes a dataset of employees from ABC Company, focusing on team 
   4. Graphical Representations
   5. Insights Gained
   6. Technologies Used
-  7. How to Run
-     
+      
 **Project Overview**
 This project aims to provide a comprehensive analysis of employee data from ABC Company, including team structures, roles, salary distributions, and demographics. The dataset contains 458 rows and 9 columns, and the goal is to provide insights into employee distribution, salary expenditure, and more. Visualizations and summaries are created to present the findings effectively.
 
